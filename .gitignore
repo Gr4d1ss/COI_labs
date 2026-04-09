@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyc
+
+# Virtual environments
+venv/
+.env
+CV_NN/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Matplotlib generated images
+*.png
+
+# Anaconda
+.conda/
+.envs/
+
+# Temporary files
+*.log
+*.tmp
