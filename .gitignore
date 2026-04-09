@@ -11,6 +11,7 @@ venv/
 CV_NN/
 
 # Jupyter
+*.ipynb
 .ipynb_checkpoints/
 
 # IDE
