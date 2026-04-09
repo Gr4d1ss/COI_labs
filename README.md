@@ -12,50 +12,10 @@
 ├── Лабораторная5/       # ...
 ├── Лабораторная6/       # ...
 ├── Лабораторная7/       # ...
-├── requirements.txt     # Зависимости Python
-├── run_jupyter.cmd      # Запуск Jupyter Notebook
-└── run_spyder.cmd       # Запуск Spyder IDE
+
 ```
 
-## Установка окружения
-
-### Вариант 1: Через Anaconda (рекомендуется)
-
-```cmd
-# Создание окружения
-conda create -n CV_NN python=3.13
-conda activate CV_NN
-
-# Установка зависимостей
-pip install -r requirements.txt
-```
-
-### Вариант 2: Готовый скрипт
-
-```cmd
-create_env.cmd
-```
-
-## Запуск лабораторных
-
-### Через Jupyter Notebook
-```cmd
-run_jupyter.cmd
-```
-
-### Через Spyder IDE
-```cmd
-run_spyder.cmd
-```
-
-### Через командную строку
-```cmd
-conda activate CV_NN
-python "Лабораторная1\lab1_task.py"
-python "Лабораторная2\lab2_task.py"
-```
-
-## Автор
+## Выполнил
 
 **Лебедев Константин**  
 Группа: 24ВВИм2
